@@ -1,0 +1,9 @@
+Here I will expain my more advanced and detailed projects found in this repostoriy.
+Task 15 - Data visulisation:
+There were 4 seperate graphs I had to analyse and awnser questions based on. Awnsers to some questions were basic observations but others demanded research and great amount of thoughts. An example of this was in the gender wage gap bar chart where I had to do research on Costa Rica and why it had the lowest wage gap.
+Determing my objectives and understanding the datasets were key to this tag as with more knowledge, the numbers and results of the visulaistions became clearer as the story behind them began to form and can be compared with other results.
+Knowing the reasons behind data points is a key part of data analysis as it can be used to form more accurate insights and ideas on how it could change.
+Patterns and inferences can be effectively recognised and explained making conclusions stronger and more detailed. The most important question for a data analyst to ask is why and I feel that with every question answered my curiousity and interest in the data grew.
+I found the C02 emissions vs GDP per capita scatter plot to be difficult analysing as the task involved explaining the relationship between the two for every continent. 
+Most of the data points were jumbled together and a bit difficult to make out and I also had to pay attention to the size of each data point as that represented population size. There was a lot to keep in mind but colours were unique for each contient so that made it easier to read.
+Rather than looking at one contient a time, I decided to compare and contrast them to more accurately compare the strength of the relationship. Most of the data points are jumbled together but outliers for each continent are definitely more frequent and notable than others.
